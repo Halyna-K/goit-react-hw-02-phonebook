@@ -1,0 +1,10 @@
+.item {
+  width: max-content;
+}
+.text {
+  display: inline-block;
+  margin: 10px;
+  font-size: calc(6px + 2vmin);
+}
+.btn {
+}
